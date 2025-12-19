@@ -120,8 +120,13 @@ Some projects are under **NDA**, but representative details are shared below.
 
 If you’re a **startup founder, business owner, or product manager** looking to build or improve a mobile app, I’d be happy to help.
 
-📌 **Contact & profiles will be added soon**
-
+📌 **Contact**
+📌 **Email**
+### saifrehman12@gmail.com
+📌 **LinkedIn**
+### https://www.linkedin.com/in/saif-ul-rehman-12170886/
+📌 **Upwork**
+### https://www.upwork.com/freelancers/saifrehman79
 ---
 
 ⭐ If you find my work interesting, feel free to star this repository and connect with me.
