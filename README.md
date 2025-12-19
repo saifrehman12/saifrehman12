@@ -1,6 +1,6 @@
 # 👋 Senior Flutter & Mobile App Developer
 
-Hi, I’m a **Senior Mobile App Developer** with **9+ years of experience** building high-quality mobile applications.
+Hi, I’m a **Senior Mobile App Developer** with **8+ years of experience** building high-quality mobile applications.
 I started my career with **native Android development (Java & Kotlin)** and for the past **5–6 years** I’ve been working extensively with **Flutter**, delivering scalable and production-ready apps for startups and businesses.
 
 ---
@@ -37,7 +37,7 @@ Some projects are under **NDA**, but representative details are shared below.
 
 ---
 
-## 📱 Projects (Representative)
+## 📱 Projects
 
 > ⚠️ Some projects are under NDA. App demos, screenshots, or further details can be shared privately.
 
