@@ -120,7 +120,6 @@ Some projects are under **NDA**, but representative details are shared below.
 
 If you’re a **startup founder, business owner, or product manager** looking to build or improve a mobile app, I’d be happy to help.
 
-📌 **Contact**
 📌 **Email**
 ### saifrehman12@gmail.com
 📌 **LinkedIn**
