@@ -41,7 +41,7 @@ Some projects are under **NDA**, but representative details are shared below.
 
 > ⚠️ Some projects are under NDA. App demos, screenshots, or further details can be shared privately.
 
-### 🔹 KFriends (Flutter)
+### 🔹 KFriends
 - Social-style cross-platform mobile application for iOS & Android
 - User authentication, onboarding, and profile management
 - REST API integration for dynamic content and interactions
