@@ -41,61 +41,61 @@ Some projects are under **NDA**, but representative details are shared below.
 
 > ⚠️ Some projects are under NDA. App demos, screenshots, or further details can be shared privately.
 
-### 🔹 Project 01 – KFriends (Flutter)
+### 🔹 KFriends (Flutter)
 - Social-style cross-platform mobile application for iOS & Android
 - User authentication, onboarding, and profile management
 - REST API integration for dynamic content and interactions
 - Clean, scalable Flutter architecture for long-term growth
 
-### 🔹 Project 02 – MSQUARE MARKET
+### 🔹 MSQUARE MARKET
 - Full-featured marketplace application with product listings and variants
 - Shopping cart, checkout flow, and order processing
 - Order history and status management
 - Firebase backend for authentication, database, and notifications
 
-### 🔹 Project 03 – POINT OF SALE
+### 🔹 POINT OF SALE
 - Point of Sale system designed for retail and business environments
 - Real-time sales and transaction handling
 - Role-based access for staff and administrators
 - Optimized for reliability and performance in daily operations
 - 
-### 🔹 Project 04 – QUEME.IO
+### 🔹 QUEME.IO
 - Application for managing dog races and queues
 - Real-time service request and status tracking
 - Push notifications for updates and alerts
 - Designed for smooth user flow and reduced waiting times
 
-### 🔹 Project 05 – TRANSLATOR
+### 🔹 TRANSLATOR
 - Internal productivity application for team-based translation workflows
 - Dashboard for managing tasks, progress, and reports
 - Performance-focused UI for fast and responsive usage
 - Built to support scalable content and multiple languages
 
-### 🔹 Project 06 – PROPERTY MANAGEMENT
+### 🔹 PROPERTY MANAGEMENT SYSTEM
 - Property management system for handling listings and users
 - Real-time interactions for updates and status changes
 - Scalable data handling to support growing property portfolios
 - Clean UI designed for both managers and end users
 
-### 🔹 Project 07 – CAB RESERVATION SYSTEM
+### 🔹 CAB RESERVATION SYSTEM
 - Ride booking and cab reservation mobile application
 - Role-based access for users, drivers, and administrators
 - Data visualization for trips, earnings, and usage statistics
 - Optimized booking flow for a smooth user experience
 
-### 🔹 Project 08 – AL QURAN MEMORIZER
+### 🔹 AL QURAN MEMORIZER
 - Educational mobile application for Quran memorization
 - Secure authentication and personalized user progress tracking
 - API-driven content delivery and data synchronization
 - Focused on reliability, accessibility, and smooth learning experience
 
-### 🔹 Project 09 – BORING PHONE
+### 🔹 BORING PHONE
 - Minimalist mobile application focused on digital well-being
 - Smooth animations and intuitive interactions
 - Highly optimized UI performance for low-end devices
 - Clean and distraction-free user experience
 
-### 🔹 Project 10 – MULTIPLE DICTIONARIES
+### 🔹 MULTIPLE DICTIONARIES
 - Dictionary application supporting multiple languages and datasets
 - Role-based system for users, moderators, and administrators
 - Modular Flutter architecture for easy feature expansion
